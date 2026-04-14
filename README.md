@@ -93,18 +93,3 @@ Busco constantemente novos conhecimentos que agreguem valor ao meu trabalho e co
 <br/>
 <br/>
 
-
-
-### 📊 Estatísticas
-
-<div>
-  <img 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=guime777&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  
-  <img 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=guime777&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</div>
